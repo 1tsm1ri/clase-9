@@ -20,7 +20,7 @@ Tabla de contenido
 [Tipografias]: #
 **Este texto esta en negrita**  
 *Este texto esta en cursiva*  
-***Este texto esta en negrita y cursiva**  
+***Este texto esta en negrita y cursiva***
 
 
 [Codigo]: #
